@@ -12,7 +12,7 @@ Github地址:https://github.com/rootxy/PhalApi-PHPWord
       
       git clone https://github.com/rootxy/PhalApi-PHPWord  
       
-2.容器中注册扩展，init.php中加入：
+2.注册扩展，init.php中加入：
 
     DI()->PHPWord = function() {
     return new PHPWord_Lite();
