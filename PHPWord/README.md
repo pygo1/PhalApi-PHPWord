@@ -1,6 +1,6 @@
 #PhalApi-PHPWord扩展第一版  
-在接口开发中遇到需要生成Word文档的需求，发现一个PHPWord的第三方库能满足大部分需求，于是整合到了PhalApi框架中。
-作者:624770448@qq.com
+在接口开发中遇到需要生成Word文档的需求，发现一个PHPWord的第三方库能满足大部分需求，于是整合到了PhalApi框架中。  
+作者:624770448@qq.com  
 
 地址:  
 官网地址:http://www.phalapi.net/   
