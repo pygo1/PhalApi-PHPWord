@@ -33,4 +33,7 @@ Github地址:https://github.com/rootxy/PhalApi-PHPWord
     $objWriter->save('Text.docx');
 
 #3. 功能  
-具体使用PHPWord生成Word文档请参考二级目录下DEMO文件夹下个各类，放入Domain文件夹实例化调用即可看到生成效果。  
+1.支持插入表格，页眉页脚，图片，列表，超链接等。  
+2.支持模版的使用，类似smarty模版引擎使用。  
+3.原插件地址http://phpword.codeplex.com/  
+具体使用PHPWord生成Word演示 请参考二级目录下DEMO文件夹下个各类，放入Domain文件夹实例化调用即可看到生成效果。  
