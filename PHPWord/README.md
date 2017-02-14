@@ -8,7 +8,10 @@ Github地址:https://github.com/rootxy/PhalApi-PHPWord
 
 #1. 安装  
 
-1.把扩展下载下来放入Library文件夹内。   
+1.把扩展下载下来放入Library文件夹内。 
+      
+      git clone https://github.com/rootxy/PhalApi-PHPWord  
+      
 2.容器中注册扩展，init.php中加入：
 
     DI()->PHPWord = function() {
